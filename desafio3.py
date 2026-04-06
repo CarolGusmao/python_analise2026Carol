@@ -1,0 +1,5 @@
+nome=(input("Digite seu nome"))
+ano=float(input("Digite seu ano de nascimento"))
+anoc=float(input("Digite o ano corrente"))
+idade= (anoc - ano)
+print (f'Olá {nome} você tem {idade}')
