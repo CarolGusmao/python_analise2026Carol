@@ -11,4 +11,5 @@ else:
         irrf = (v * 27) / 100 
         sf= v - irrf
         print (f' O valor do salário é {v}. O valor do imposto a pagar é {irrf}. Salário final é {sf}' )
+        print('teste git')
 
